@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cxdn0/dz2-3/issues"
   },
-  "homepage": "https://github.com/cxdn0/dz2-3#readme"
+  "homepage": "https://github.com/cxdn0/dz2-3#readme",
+  "dependencies": {
+    "cors": "^2.8.1"
+  }
 }
